@@ -1,0 +1,11 @@
+img{
+    width: 200px;
+}
+
+#images { 
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+}
+
